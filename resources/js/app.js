@@ -7,6 +7,10 @@
 
 require('./bootstrap');
 
+/* imports*/
+import BlogPosts from './components/BlogPosts'
+import Example from './components/Example'
+
 window.Vue = require('vue');
 
 /**

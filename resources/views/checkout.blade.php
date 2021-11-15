@@ -66,14 +66,14 @@
                         </div>
                         <div class="form-group">
                             <label for="province">Province</label>
-                            <input type="text" class="form-control" id="province" name="province" value="{{ old('province') }}" required>
+                            <input type="text" class="form-control" id="province" name="province" value="{{ old('province') }}" >
                         </div>
                     </div> <!-- end half-form -->
 
                     <div class="half-form">
                         <div class="form-group">
                             <label for="postalcode">Postal Code</label>
-                            <input type="text" class="form-control" id="postalcode" name="postalcode" value="{{ old('postalcode') }}" required>
+                            <input type="text" class="form-control" id="postalcode" name="postalcode" value="{{ old('postalcode') }}" >
                         </div>
                         <div class="form-group">
                             <label for="phone">Phone</label>

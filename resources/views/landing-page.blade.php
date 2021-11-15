@@ -34,7 +34,7 @@
                         <p>Includes multiple products, categories, a shopping cart and a checkout system with Stripe integration.</p>
                         <div class="hero-buttons">
                             <a href="http://vamugwambi.42web.io/" class="button button-white">MyWebsite</a>
-                            <a href="https://github.com/drehimself/laravel-ecommerce-example" class="button button-white">GitHub</a>
+                            <a href="https://github.com/ashiemugwa1997/ashie_ecommerce" class="button button-white">GitHub</a>
                         </div>
                     </div> <!-- end hero-copy -->
 
