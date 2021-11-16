@@ -23,7 +23,7 @@
         "paynow/php-sdk": "^1.0",
         "tcg/voyager": "*"
     },
-    "require-dev": {
+    "require": {
         "fzaninotto/faker": "~1.4",
         "laravel/dusk": "^6.19",
         "mockery/mockery": "0.9.*",
